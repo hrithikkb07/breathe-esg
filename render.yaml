@@ -19,7 +19,7 @@ services:
     runtime: python
     rootDir: backend
     plan: free
-    pythonVersion: "3.11"
+    pythonVersion: "3.11.9"
     buildCommand: |
       pip install -r requirements.txt &&
       python manage.py collectstatic --noinput &&
