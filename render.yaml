@@ -13,7 +13,8 @@ services:
     buildCommand: |
       pip install -r requirements.txt &&
       python manage.py collectstatic --noinput &&
-      python manage.py migrate
+      python manage.py migrate &&
+      python manage.py seed_demo_data
     startCommand: gunicorn config.wsgi:application --workers 2 --bind 0.0.0.0:$PORT
     envVars:
       - key: PYTHON_VERSION
