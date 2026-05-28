@@ -1,0 +1,19 @@
+Employee ID,Trip ID,Expense Type,Travel Date,Return Date,Origin,Destination,Distance (km),Cabin Class,Number of Nights,Hotel Name,Cost (USD),Department,Purpose
+EMP-001,TRP-2024-0101,Air,2024-01-08,2024-01-10,BOM,LHR,,Economy,,,"British Airways BA-138",1240.00,Finance,Client Meeting London
+EMP-001,TRP-2024-0101,Hotel,2024-01-08,2024-01-10,,,,,2,Marriott Grosvenor Square,560.00,Finance,Client Meeting London
+EMP-002,TRP-2024-0102,Air,2024-01-15,2024-01-18,DEL,FRA,6580,Business,,,"Lufthansa LH-761",4200.00,Sales,Sales Conference Frankfurt
+EMP-002,TRP-2024-0102,Hotel,2024-01-15,2024-01-18,,,,,3,Steigenberger Airport Hotel,780.00,Sales,Sales Conference Frankfurt
+EMP-003,TRP-2024-0103,Air,2024-01-22,2024-01-22,BOM,DEL,1148,Economy,,,890.00,Engineering,Technical Review
+EMP-003,TRP-2024-0103,Rail,2024-01-22,2024-01-22,DEL,AGR,204,,,,"Shatabdi Express",45.00,Engineering,Technical Review
+EMP-004,TRP-2024-0201,Air,2024-02-05,2024-02-08,BOM,JFK,,Economy,,,1890.00,Executive,Board Meeting NYC
+EMP-004,TRP-2024-0201,Hotel,2024-02-05,2024-02-08,,,,,3,The Pierre New York,2400.00,Executive,Board Meeting NYC
+EMP-004,TRP-2024-0201,Ground,2024-02-05,2024-02-05,JFK,Manhattan,25,,,,"Taxi",85.00,Executive,Board Meeting NYC
+EMP-005,TRP-2024-0202,Air,2024-02-12,2024-02-14,LHR,DXB,5490,Economy,,,620.00,Operations,Site Inspection
+EMP-005,TRP-2024-0202,Hotel,2024-02-12,2024-02-14,,,,,2,Hilton Dubai Creek,380.00,Operations,Site Inspection
+EMP-006,TRP-2024-0203,Rail,2024-02-19,2024-02-19,LHR,BER,,Economy,,,,"Eurostar + ICE",320.00,HR,Training
+EMP-001,TRP-2024-0301,Air,2024-03-04,2024-03-07,BOM,SIN,,First,,,3200.00,Finance,APAC Strategy
+EMP-001,TRP-2024-0301,Hotel,2024-03-04,2024-03-07,,,,,3,Marina Bay Sands,2100.00,Finance,APAC Strategy
+EMP-007,TRP-2024-0302,Air,2024-03-11,2024-03-11,ORD,LAX,2811,Economy,,,430.00,Marketing,Campaign Review
+EMP-008,TRP-2024-0303,Air,2024-09-15,2024-09-18,BOM,LHR,,Economy,,,1100.00,Finance,Q3 Review
+EMP-009,TRP-2024-0304,Air,2024-12-28,2024-12-28,BOM,NRT,5000,Economy,,,1850.00,Engineering,Year-end Conference
+EMP-010,TRP-2024-0305,Air,2024-04-01,2024-04-01,BOM,BOM,5,Economy,,,50.00,Admin,Test Booking
